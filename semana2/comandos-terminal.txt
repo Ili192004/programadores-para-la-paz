@@ -1,0 +1,14 @@
+Los comandos que yo utilice en. la terminal son los siguientes:
+
+pwd
+cd
+ls
+mkdir semana2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+mv comandos-terminal1.txt comandos-terminal.txt
+git status
+git add.
+git commit -m "Actividad semana 2"
+git push 
