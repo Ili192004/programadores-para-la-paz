@@ -1,0 +1,11 @@
+Qué ocurre cuando ejecutas node server.js: Cuando ejecuto el comando node server.js se habilita el puerto 3000
+es decir, en el navegador ya se puede buscar con esa ruta.
+
+2. Qué mensaje aparece en la terminal: Cuando ejecuto el comando node server.js en la terminal
+de Git me aparece el mensaje: "Servidor ejecutándose en puerto 3000", es decir el puerto está 
+escuchando peticiones por parte del usuario.
+
+3. Qué sucede cuando visitas la ruta /estado: Al visitar la ruta: http://localhost:3000/estado
+obtengo una respuesta por parte del servidor y es: 
+{"estado":"Servidor funcionando","servicio":"API comunitaria"}
+Permitiendo entender que funciona correctamente.
