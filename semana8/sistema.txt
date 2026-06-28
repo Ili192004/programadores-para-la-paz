@@ -1,0 +1,16 @@
+1. Qué información muestra cada comando
+    Comando: uname -a
+    Muestra información general del sistema, como el nombre del sistema operativo o entorno utilizado, 
+    el nombre del equipo, la versión del sistema, la arquitectura del procesador y otros datos técnicos. 
+    En mi caso, mostró que estoy utilizando Git Bash (MINGW64/MSYS) sobre Windows 11 y una arquitectura 
+    de 64 bits.
+
+    Comando: whoami
+    Este comando muestra el nombre del usuario que tiene iniciada la sesión en la terminal. En mi caso, 
+    el usuario es "ilian".
+
+¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+
+ Porque esta saber esta información es necesario para trabajar de forma segura. Esto ayuda a administrar 
+ el servidor correctamente, aplicar configuraciones adecuadas y evitar errores relacionados con permisos 
+ o incompatibilidades.
